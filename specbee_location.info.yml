@@ -1,0 +1,6 @@
+name: Specbee Location
+description: Provides a configurable block that shows location and time of the site.
+package: Specbee
+
+type: module
+core_version_requirement: ^8.8.0 || ^9.0
